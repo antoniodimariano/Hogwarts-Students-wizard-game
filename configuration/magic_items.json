@@ -1,0 +1,58 @@
+{
+    "wand": [
+        {
+            "name": "Redwood Wand",
+            "magic_point": 9,
+            "price": {"galleons": 3, "sickles": 15, "knuts": 7}
+        },
+        {
+            "name": "Oak Wand",
+            "magic_point": 13,
+
+            "price": {"galleons": 13, "sickles": 9, "knuts": 23}
+        },
+        {
+            "name": "Holly Wand",
+            "magic_point": 17,
+
+            "price": {"galleons": 45, "sickles": 9, "knuts": 17}
+        }
+    ],
+    "broomstick": [
+        {
+            "name": "Cleansweep",
+            "magic_point": 3,
+
+            "price": {"galleons": 4, "sickles": 11, "knuts": 3}
+        },
+        {
+            "name": "Nimbus 2000",
+            "magic_point": 8,
+
+            "price": {"galleons": 11, "sickles": 5, "knuts": 9}
+        },
+        {
+            "name": "Firebolt",
+            "magic_point": 11,
+
+            "price": {"galleons": 47, "sickles": 13, "knuts": 19}
+        }
+    ],
+    "pet": [
+        {
+            "name": "Rat",
+            "price": {"galleons": 2, "sickles": 15, "knuts": 7},
+            "ability": {"Rat": "Owl"}
+        },
+        {
+            "name": "Cat",
+            "price": {"galleons": 12, "sickles": 7, "knuts": 9},
+            "ability": {"Cat": "Rat"}
+        },
+        {
+            "name": "Own",
+            "price": {"galleons": 50, "sickles": 8, "knuts": 20},
+            "ability": {"Owl": "Cat"}
+        }
+    ]
+}
